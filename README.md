@@ -20,5 +20,4 @@ An Arduino project to control 3 LEDs using 3 pushbuttons.
 The code is in the file [`main.ino`](main.ino)
 
 ## 🔗 Tinkercad Link:
-[Open Circuit on Tinkercad](https://www.tinkercad.com/)  
-(📌 Add your actual Tinkercad link here)
+([https://www.tinkercad.com/](https://www.tinkercad.com/things/8OSiRIpXWWG-shiny-tumelo)
